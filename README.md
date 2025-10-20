@@ -25,4 +25,4 @@ This project was made to practice front-end development, focusing on clean UI de
 ## 🚀 How to Run
 1. Clone this repository  
    ```bash
-   git clone https://github.com/bagusrl/login-form.git
+   git clone https://github.com/bagusrl/LOGINFORM.git
